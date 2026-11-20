@@ -1,0 +1,18 @@
+{
+  "app": "gymverse",
+  "version": 4,
+  "exportedAt": "2026-01-06T12:00:00.000Z",
+  "history": [{
+    "date": "2026-01-05T10:00:00.000Z",
+    "planId": "push_a1",
+    "planTitle": "Push A1",
+    "totalVolume": 320,
+    "totalReps": 8,
+    "durationMin": 35,
+    "details": [{ "exerciseId": "bench_flat", "exerciseName": "Wyciskanie testowe", "setNumber": 1, "weight": 40, "reps": 8, "date": "2026-01-05T10:00:00.000Z" }]
+  }],
+  "lastWeights": { "bench_flat": [{ "weight": 40, "reps": 8 }] },
+  "body": [{ "date": "2026-01-05", "kg": 70 }],
+  "plans": [],
+  "custom": {}
+}
